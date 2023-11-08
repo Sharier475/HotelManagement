@@ -1,0 +1,12 @@
+D:\MyLearningSoftwareDevelopment\CleanArchitecture\Practice\HotelManagement\src\Libraries\Domain\HotelManagement.Shared\bin\Debug\net7.0\HotelManagement.Shared.deps.json
+D:\MyLearningSoftwareDevelopment\CleanArchitecture\Practice\HotelManagement\src\Libraries\Domain\HotelManagement.Shared\bin\Debug\net7.0\HotelManagement.Shared.dll
+D:\MyLearningSoftwareDevelopment\CleanArchitecture\Practice\HotelManagement\src\Libraries\Domain\HotelManagement.Shared\bin\Debug\net7.0\HotelManagement.Shared.pdb
+D:\MyLearningSoftwareDevelopment\CleanArchitecture\Practice\HotelManagement\src\Libraries\Domain\HotelManagement.Shared\obj\Debug\net7.0\HotelManagement.Shared.csproj.AssemblyReference.cache
+D:\MyLearningSoftwareDevelopment\CleanArchitecture\Practice\HotelManagement\src\Libraries\Domain\HotelManagement.Shared\obj\Debug\net7.0\HotelManagement.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyLearningSoftwareDevelopment\CleanArchitecture\Practice\HotelManagement\src\Libraries\Domain\HotelManagement.Shared\obj\Debug\net7.0\HotelManagement.Shared.AssemblyInfoInputs.cache
+D:\MyLearningSoftwareDevelopment\CleanArchitecture\Practice\HotelManagement\src\Libraries\Domain\HotelManagement.Shared\obj\Debug\net7.0\HotelManagement.Shared.AssemblyInfo.cs
+D:\MyLearningSoftwareDevelopment\CleanArchitecture\Practice\HotelManagement\src\Libraries\Domain\HotelManagement.Shared\obj\Debug\net7.0\HotelManagement.Shared.csproj.CoreCompileInputs.cache
+D:\MyLearningSoftwareDevelopment\CleanArchitecture\Practice\HotelManagement\src\Libraries\Domain\HotelManagement.Shared\obj\Debug\net7.0\HotelManagement.Shared.dll
+D:\MyLearningSoftwareDevelopment\CleanArchitecture\Practice\HotelManagement\src\Libraries\Domain\HotelManagement.Shared\obj\Debug\net7.0\refint\HotelManagement.Shared.dll
+D:\MyLearningSoftwareDevelopment\CleanArchitecture\Practice\HotelManagement\src\Libraries\Domain\HotelManagement.Shared\obj\Debug\net7.0\HotelManagement.Shared.pdb
+D:\MyLearningSoftwareDevelopment\CleanArchitecture\Practice\HotelManagement\src\Libraries\Domain\HotelManagement.Shared\obj\Debug\net7.0\ref\HotelManagement.Shared.dll

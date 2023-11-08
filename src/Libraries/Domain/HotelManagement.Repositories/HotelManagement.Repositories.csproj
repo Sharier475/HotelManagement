@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Infrustructure\HotelManagement.Infrustructure\HotelManagement.Infrustructure.csproj" />
+    <ProjectReference Include="..\..\Infrustructure\HotelManagement.Services.Model\HotelManagement.Services.Model.csproj" />
+    <ProjectReference Include="..\HotelManagement.Core\HotelManagement.Model.csproj" />
+    <ProjectReference Include="..\HotelManagement.Shared\HotelManagement.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

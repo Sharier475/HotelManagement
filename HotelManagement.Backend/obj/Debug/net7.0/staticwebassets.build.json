@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "A76+CqMRDUCILaMhT5K7X8ob0rYdsktyJFXEaq4uM64=",
+  "Source": "HotelManagement.Backend",
+  "BasePath": "_content/HotelManagement.Backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

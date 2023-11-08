@@ -1,0 +1,15 @@
+D:\MyLearningSoftwareDevelopment\CleanArchitecture\Practice\HotelManagement\src\Libraries\Infrustructure\HotelManagement.Services.Model\bin\Debug\net7.0\HotelManagement.Services.Model.deps.json
+D:\MyLearningSoftwareDevelopment\CleanArchitecture\Practice\HotelManagement\src\Libraries\Infrustructure\HotelManagement.Services.Model\bin\Debug\net7.0\HotelManagement.Services.Model.dll
+D:\MyLearningSoftwareDevelopment\CleanArchitecture\Practice\HotelManagement\src\Libraries\Infrustructure\HotelManagement.Services.Model\bin\Debug\net7.0\HotelManagement.Services.Model.pdb
+D:\MyLearningSoftwareDevelopment\CleanArchitecture\Practice\HotelManagement\src\Libraries\Infrustructure\HotelManagement.Services.Model\bin\Debug\net7.0\HotelManagement.Shared.dll
+D:\MyLearningSoftwareDevelopment\CleanArchitecture\Practice\HotelManagement\src\Libraries\Infrustructure\HotelManagement.Services.Model\bin\Debug\net7.0\HotelManagement.Shared.pdb
+D:\MyLearningSoftwareDevelopment\CleanArchitecture\Practice\HotelManagement\src\Libraries\Infrustructure\HotelManagement.Services.Model\obj\Debug\net7.0\HotelManagement.Services.Model.csproj.AssemblyReference.cache
+D:\MyLearningSoftwareDevelopment\CleanArchitecture\Practice\HotelManagement\src\Libraries\Infrustructure\HotelManagement.Services.Model\obj\Debug\net7.0\HotelManagement.Services.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyLearningSoftwareDevelopment\CleanArchitecture\Practice\HotelManagement\src\Libraries\Infrustructure\HotelManagement.Services.Model\obj\Debug\net7.0\HotelManagement.Services.Model.AssemblyInfoInputs.cache
+D:\MyLearningSoftwareDevelopment\CleanArchitecture\Practice\HotelManagement\src\Libraries\Infrustructure\HotelManagement.Services.Model\obj\Debug\net7.0\HotelManagement.Services.Model.AssemblyInfo.cs
+D:\MyLearningSoftwareDevelopment\CleanArchitecture\Practice\HotelManagement\src\Libraries\Infrustructure\HotelManagement.Services.Model\obj\Debug\net7.0\HotelManagement.Services.Model.csproj.CoreCompileInputs.cache
+D:\MyLearningSoftwareDevelopment\CleanArchitecture\Practice\HotelManagement\src\Libraries\Infrustructure\HotelManagement.Services.Model\obj\Debug\net7.0\HotelManagement.Services.Model.csproj.CopyComplete
+D:\MyLearningSoftwareDevelopment\CleanArchitecture\Practice\HotelManagement\src\Libraries\Infrustructure\HotelManagement.Services.Model\obj\Debug\net7.0\HotelManagement.Services.Model.dll
+D:\MyLearningSoftwareDevelopment\CleanArchitecture\Practice\HotelManagement\src\Libraries\Infrustructure\HotelManagement.Services.Model\obj\Debug\net7.0\refint\HotelManagement.Services.Model.dll
+D:\MyLearningSoftwareDevelopment\CleanArchitecture\Practice\HotelManagement\src\Libraries\Infrustructure\HotelManagement.Services.Model\obj\Debug\net7.0\HotelManagement.Services.Model.pdb
+D:\MyLearningSoftwareDevelopment\CleanArchitecture\Practice\HotelManagement\src\Libraries\Infrustructure\HotelManagement.Services.Model\obj\Debug\net7.0\ref\HotelManagement.Services.Model.dll
